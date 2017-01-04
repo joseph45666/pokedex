@@ -1,5 +1,5 @@
 var pikachu = {
-    abilities: [{
+    itities: [{
         name: "static",
         resource_uri: "/api/v1/ability/9/"
     }, {
